@@ -4,6 +4,6 @@ SDA Academy
 
 ## Exercises
 
-- [] Basics
-- [] Flow control, loops and arrays
-- [] Objects Oriented programming
+- [ ] Basics
+- [ ] Flow control, loops and arrays
+- [ ] Objects Oriented programming
