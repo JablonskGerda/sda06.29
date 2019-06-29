@@ -4,4 +4,4 @@
 
 - [] Basics
 - [] Flow control, loops and arrays
-- [] Objects Oriented programing
+- [] Objects Oriented programming
